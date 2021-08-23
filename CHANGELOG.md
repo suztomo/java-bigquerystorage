@@ -1,5 +1,17 @@
 # Changelog
 
+### [2.0.5](https://www.github.com/googleapis/java-bigquerystorage/compare/v2.0.4...v2.0.5) (2021-08-23)
+
+
+### Documentation
+
+* **sample:** Remove `client` from `JsonStreamWriter` in `WriteCommittedStream` ([#1248](https://www.github.com/googleapis/java-bigquerystorage/issues/1248)) ([6d38bd5](https://www.github.com/googleapis/java-bigquerystorage/commit/6d38bd5e3ff383e55e852081bbea5807796f59dd))
+
+
+### Dependencies
+
+* update dependency com.google.cloud:google-cloud-shared-dependencies to v2.1.0 ([#1261](https://www.github.com/googleapis/java-bigquerystorage/issues/1261)) ([0edb25d](https://www.github.com/googleapis/java-bigquerystorage/commit/0edb25d4a55f5480d5717672f30b09e6433483b9))
+
 ### [2.0.4](https://www.github.com/googleapis/java-bigquerystorage/compare/v2.0.3...v2.0.4) (2021-08-19)
 
 
